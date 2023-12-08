@@ -278,7 +278,7 @@
                     }
                 },
                 {
-                    "source": "/Users/wenchu/Projects/Flutter-MyFirstFlutterApp/my_first_flutter_app/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/wenchu/Projects/Flutter-MyFirstFlutterApp/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
@@ -1357,7 +1357,7 @@
             "outputFile": "com.example.my_first_flutter_app-merged_res-11:/values-night-v8_values-night-v8.arsc.flat",
             "map": [
                 {
-                    "source": "/Users/wenchu/Projects/Flutter-MyFirstFlutterApp/my_first_flutter_app/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/Users/wenchu/Projects/Flutter-MyFirstFlutterApp/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
