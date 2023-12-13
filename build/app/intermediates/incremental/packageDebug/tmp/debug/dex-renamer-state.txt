@@ -1,4 +1,4 @@
-#Wed Dec 06 10:21:48 CST 2023
+#Wed Dec 13 09:57:59 CST 2023
 base.0=/Users/wenchu/Projects/Flutter-MyFirstFlutterApp/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
